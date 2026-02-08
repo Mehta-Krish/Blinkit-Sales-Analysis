@@ -1,4 +1,5 @@
 <h1>Blinkit Sales Analysis</h1>
+<a href='https://app.powerbi.com/view?r=eyJrIjoiOTJhY2Q1OGEtZWQxMy00ZWMxLWI3ODktMTgyYWE5NWFkM2VhIiwidCI6IjA0MjJjNTMxLTA2YTgtNDE1Zi04YWQ1LWEzZmU0Mzk5ZjYwMiJ9'target='_blank'>Dashboard</a><br><br>
 This project analyzes sales data from Blinkit (India's Last Minute App) across multiple outlets and item categories. The dataset provides insights into item attributes, outlet information, and sales performance. <br>The dataset includes three main categories of information:
                     <br>1.<strong> Item Information –</strong> Fat Content, Item Type, Item Identifier, Item Visibility, Item Weight.
                     <br>2. <strong>Outlet Information –</strong> Outlet Establishment Year, Outlet Identifier, Outlet Location Type, Outlet Size & Type.
